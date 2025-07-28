@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Camera to Text</string>
+    <string name="camera_permission_required">Camera permission is required to use this app</string>
+    <string name="capture_text">Capture Text</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="text_copied">Text copied to clipboard</string>
+    <string name="no_text_found">No text found in image</string>
+    <string name="processing">Processing...</string>
+    <string name="select_text">Select Text</string>
+    <string name="clear_selection">Clear Selection</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="use_photo">Use Photo</string>
+</resources> 
