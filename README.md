@@ -1,7 +1,3 @@
-# Camera to Text - Android App
-
-A modern Android application that captures text from camera images and allows users to select and copy specific text portions.
-
 ## Features
 
 - **Real-time Camera Preview**: Live camera feed with instant text recognition
